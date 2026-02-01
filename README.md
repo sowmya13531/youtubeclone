@@ -5,7 +5,7 @@ This project was created to strengthen frontend fundamentals such as layout stru
 
 ## 🚀 Live Demo
 
-> ([Deployed Live Link](https://sowmya13531.github.io/Youtube-Clone/))
+> ([Vercel Deployed Live Link](https://youtubeclone-theta-five.vercel.app/)))
 
 ## 🌟 Features
 - Responsive layout design  
